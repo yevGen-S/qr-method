@@ -1,11 +1,21 @@
+**/Debug
+**/.vs
+
 # Prerequisites
 *.d
 
 # Compiled Object files
 *.slo
+*.resx
+*.sln
+*.rc
+*.ico
+*.aps
 *.lo
 *.o
 *.obj
+**.vcxproj*
+**.tlog
 
 # Precompiled Headers
 *.gch
