@@ -1,8 +1,8 @@
 # qr-method
 ## QR method with different modifications:.
-### QR Method with Matrix Reduction to Hessenberg Matrix
-### Explicit shift QR method
-### QR method with implicit shift
+####  - QR Method with Matrix Reduction to Hessenberg Matrix
+####  - Explicit shift QR method
+####  - QR method with implicit shift
 
 # GUI
 
